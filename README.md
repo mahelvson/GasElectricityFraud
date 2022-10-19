@@ -30,3 +30,6 @@ As principais conclusões são:
 - O LightGBM após fine-tuning apresentou Accuracy = 0.68, F1-Score = 0.7, e AUC-ROC = 0.76;
 - Sob a perspectiva destas métricas, as idas a campo serão mais assertivas, com maior probabilidade de encontrar fraudes.
 
+# 6. Referências
+[1] Dataset - https://www.kaggle.com/datasets/mrmorj/fraud-detection-in-electricity-and-gas-consumption
+
